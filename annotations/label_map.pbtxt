@@ -1,0 +1,19 @@
+item {
+    id: 1
+    name: 'author'
+}
+
+item {
+    id: 2
+    name: 'publisher'
+}
+
+item {
+    id: 3
+    name: 'text'
+}
+
+item {
+    id: 4
+    name: 'title'
+}
