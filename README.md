@@ -19,7 +19,7 @@ Application: *Bookshelf digitization*
 ### Dataset
 ---
 - **Xây dựng bộ dữ liệu**: tự chụp ảnh từ các thư viện, nhà sách gần nơi sinh sống và lấy ảnh bìa sách từ website Amazon.com
-- Số lượng và độ đa dạng: bộ dữ liệu có **2000** ảnh bìa sách
+- Số lượng và độ đa dạng: bộ dữ liệu có **1047** ảnh bìa sách
 - Phân chia (*split*) train / dev / test: 80% train, 10% dev, 10% test
 
 ### Feature
